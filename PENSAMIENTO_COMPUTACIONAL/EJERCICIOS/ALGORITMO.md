@@ -1,6 +1,8 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 #Cambio de ropa
 
+Inicio
+
 1 Obetener conjunto de nuevo de ropa("ropa interior,pantalon,camisa")
 
 2 Quitarce zapatos en uso
@@ -21,3 +23,4 @@ FIN
 
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
+
