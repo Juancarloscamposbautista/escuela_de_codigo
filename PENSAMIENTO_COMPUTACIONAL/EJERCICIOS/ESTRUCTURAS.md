@@ -18,6 +18,14 @@
 
 
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+
+1 inicio
+2 declara(letra)char
+3 muestra("Ingrese una letra")
+4 asigna(letra)
+5 EN CASO DE (letra) HAGA caso s: mostar("letra permitida s") caso n: mostar("letra permitida n")  SINO mostrar("Ingresaste una letra no permitida") FIN CASO
+6 fin
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
