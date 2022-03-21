@@ -7,7 +7,7 @@
  
  3 Mostar"Ingrese un numero".
  
- 4 Designar(Numero,Resultado).
+ 4 Asignar(Numero,Resultado).
  
  5 Resultado=Numero*9.
  
@@ -24,7 +24,7 @@
  
  3 Mostar"Ingrese el Numero de metros que se requiera convertir".
  
- 4 Designar(numetro_de_metros,Resultado).
+ 4 Asignar(numetro_de_metros,Resultado).
  
  5 Resultado=numetro_de_metros*1.09361.
  
@@ -43,7 +43,7 @@
  
  3 Mostar"ingrese base y altura del triangulo".
  
- 4 Designar(base,altura,Area_del_triangulo).
+ 4 Asignar(base,altura,Area_del_triangulo).
  
  5 Area_del_triangulo=base*altura/2.
  
