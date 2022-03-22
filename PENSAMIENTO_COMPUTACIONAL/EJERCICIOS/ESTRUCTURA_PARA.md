@@ -23,10 +23,25 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
 ![image](https://user-images.githubusercontent.com/101900664/159531383-84a667f2-75c0-4291-9773-8191d2a17268.png)
 
 
+var nombre;
+var numero;
+var contador;
+nombre=prompt("introduce tu nombre")
+numero=prompt("cuantas veces")
+for(contador=1;contador<=numero;contador++){
+    document.write(nombre + "<br>")
+}
+
 
 Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de multiplicar del 1 al 10.
 
+1 Inico
 
+2 Declarar(contador,tabla,resultado)int.
+
+3 Asigna(contador=1,tabla=1,resultado).
+
+4 Para(tabla<=10) PARA(contador <= 10) resultado=tabla*contador mostar(numero * contador = resutado) contador=contador + 1 FIN PARA
 
 
 
