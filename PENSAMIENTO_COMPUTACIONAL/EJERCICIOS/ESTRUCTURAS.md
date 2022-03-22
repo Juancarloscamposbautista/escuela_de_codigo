@@ -32,6 +32,9 @@
 
 6 fin
 
+
+[Diagrama 2.pdf](https://github.com/Juancarloscamposbautista/escuela_de_codigo/files/8321442/Diagrama.2.pdf)
+
 * Un programa que pida una letra y detecte si es una vocal. 
 
 1 inicio.
