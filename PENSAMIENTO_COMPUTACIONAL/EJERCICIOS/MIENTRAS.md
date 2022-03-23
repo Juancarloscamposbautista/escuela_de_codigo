@@ -15,3 +15,20 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
 
 Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
 
+1 Inicio.
+
+2 Declarar(nuemro,resultado)float.
+
+3 Mostrar("ingresa un numero")
+
+4 Asignar(numero).
+
+5 Asignar(resultado=0)
+
+6 Minetras(numero>0) resultado=resultado + numero Mostrar("ingresa un numero") Asignar(numero) FinMientras.
+
+7 Mostrar(resultado).
+
+8 Fin
+
+![image](https://user-images.githubusercontent.com/101900664/159751904-70694ca7-3502-486c-a9f3-3d8e2cab3bb0.png)
