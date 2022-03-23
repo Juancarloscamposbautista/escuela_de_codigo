@@ -41,7 +41,9 @@ Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de 
 
 3 Asigna(contador=1,tabla=1,resultado).
 
-4 Para(tabla<=10) PARA(contador <= 10) resultado=tabla*contador mostar(numero * contador = resutado) contador=contador + 1 FIN PARA
+4 Para(tabla<=10)  PARA(contador <= 10) resultado=tabla*contador mostar(tabla* contador = resutado) contador=contador + 1 FIN PARA  tabla=tabla + 1 FIN PARA.
+
+5 Fin.
 
 
 
